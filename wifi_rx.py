@@ -7,6 +7,8 @@
 # GNU Radio Python Flow Graph
 # Title: Wifi Rx
 # GNU Radio version: 3.10.10.0
+# Flowgraph inspired by: @ https://github.com/bastibl/gr-ieee802-11/issues/83#issuecomment-369575692
+
 
 from PyQt5 import Qt
 from gnuradio import qtgui
